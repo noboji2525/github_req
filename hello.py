@@ -5,3 +5,4 @@ def get_time(time):
 
 print("hello")
 print(get_time(time))
+print("Myname")
